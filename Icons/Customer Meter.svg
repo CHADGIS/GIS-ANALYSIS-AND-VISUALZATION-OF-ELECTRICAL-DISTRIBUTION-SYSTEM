@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 29.44 32.88">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 1.82px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff200;
+      }
+
+      .cls-6 {
+        fill: #8b5e3c;
+      }
+
+      .cls-7 {
+        fill: #c2b59b;
+      }
+
+      .cls-8 {
+        fill: #bcbec0;
+      }
+
+      .cls-9 {
+        fill: #a7a9ac;
+      }
+
+      .cls-10 {
+        fill: #545554;
+      }
+
+      .cls-11 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-12 {
+        opacity: .33;
+      }
+
+      .cls-3 {
+        font-size: 1.12px;
+      }
+
+      .cls-13 {
+        isolation: isolate;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="12.94" y1="27.26" x2="29.42" y2="27.26" gradientUnits="userSpaceOnUse">
+      <stop offset=".22" stop-color="#fff"/>
+      <stop offset=".3" stop-color="#d4d3d3"/>
+      <stop offset=".4" stop-color="#9e9c9d"/>
+      <stop offset=".51" stop-color="#726f70"/>
+      <stop offset=".61" stop-color="#4f4c4d"/>
+      <stop offset=".7" stop-color="#373334"/>
+      <stop offset=".79" stop-color="#282425"/>
+      <stop offset=".86" stop-color="#231f20"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-13">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <g class="cls-12">
+            <g class="cls-11">
+              <path class="cls-10" d="M14.39,32.88l-1.43-4.73h0c1.05-2.18,8.76-4.71,12.71-4.5h0c3.94,.2,5.39,2.8,1.43,4.73h0s-12.71,4.5-12.71,4.5Z"/>
+            </g>
+            <path class="cls-4" d="M14.39,31.88l-1.43-4.73h0c1.05-2.18,8.76-4.71,12.71-4.5h0c3.94,.2,5.39,2.8,1.43,4.73h0s-12.71,4.5-12.71,4.5Z"/>
+          </g>
+          <path class="cls-6" d="M14.49,32.02L1.96,17.25h0C-3.61,10.69,3.35,2.49,14.49,2.49h0c11.14,0,18.1,8.2,12.53,14.77h0s-12.53,14.77-12.53,14.77Z"/>
+          <ellipse class="cls-7" cx="14.51" cy="12.27" rx="13.24" ry="8.51"/>
+          <ellipse class="cls-2" cx="14.51" cy="12.27" rx="12.23" ry="7.49"/>
+          <rect class="cls-8" x="16.78" y="9.77" width="7.07" height="1.04" rx=".37" ry=".37"/>
+          <path class="cls-5" d="M24.81,12.27l-11.87,3.52s1.71,0,3.82,0-3.82,3.52-3.82,3.52l7.53-2.24,4.34-1.29s-2.01,0-4.4,0,4.4-3.52,4.4-3.52Z"/>
+          <text/>
+          <text class="cls-3" transform="translate(17.56 10.7) scale(.98 1)"><tspan x="0" y="0">1234567890</tspan></text>
+          <ellipse class="cls-9" cx="9.98" cy="11.17" rx="6" ry="3.9"/>
+          <text class="cls-1" transform="translate(5.49 11.6) rotate(-72.57) scale(1.33 1)"><tspan x="0" y="0">1</tspan></text>
+          <text class="cls-1" transform="translate(5.7 10.72) rotate(-44.6) scale(1.33 1)"><tspan x="0" y="0">2</tspan></text>
+          <text class="cls-1" transform="translate(6.39 9.94) rotate(-23.74) scale(1.33 1)"><tspan x="0" y="0">3</tspan></text>
+          <text class="cls-1" transform="translate(7.46 9.47) rotate(-12.58) scale(1.33 1)"><tspan x="0" y="0">4</tspan></text>
+          <text class="cls-1" transform="translate(8.61 9.22) rotate(-4.34) scale(1.33 1)"><tspan x="0" y="0">5</tspan></text>
+          <text class="cls-1" transform="translate(9.79 9.12) rotate(3.12) scale(1.33 1)"><tspan x="0" y="0">6</tspan></text>
+          <text class="cls-1" transform="translate(10.98 9.18) rotate(11.1) scale(1.33 1)"><tspan x="0" y="0">7</tspan></text>
+          <text class="cls-1" transform="translate(12.13 9.39) rotate(21.53) scale(1.33 1)"><tspan x="0" y="0">8</tspan></text>
+          <text class="cls-1" transform="translate(13.14 9.76) rotate(39.99) scale(1.33 1)"><tspan x="0" y="0">9</tspan></text>
+          <text class="cls-1" transform="translate(13.9 10.31) rotate(68.24) scale(1.33 1)"><tspan x="0" y="0">0</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
